@@ -1,2 +1,2 @@
 # DNSLookup
-Determine the IP address associated with the domain name
+Determines the IP address associated with the domain name with a given root address
